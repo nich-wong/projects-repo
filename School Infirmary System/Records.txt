@@ -1,0 +1,40 @@
+Nicholas Wong
+BI19110023
+27/07/2020  07:36
+Illness
+Minor
+No
+Student fainted during assembly.
+It was suspected that it was due to fatigue.
+Student was sent home to rest.
+*
+Peter Parker
+BI19110002
+28/07/2020  14:32
+Injury
+Minor
+Yes
+Left hand burnt by bunsen burner during chemistry class.
+Bandages were applied to student's hand.
+*
+Ali Nadim
+BI19110001
+30/07/2020  10:29
+Illness
+Minor
+No
+Minor headache with a slight increase in temperature.
+Student was asked to drink lots of water.
+Student rested in the infirmary for 1 hour.
+*
+Nicholas Wong
+BI19110023
+31/07/2020  09:48
+Injury
+Minor
+Yes
+Accident during sports event.
+Right leg suffered some bleeding.
+Bandages with some ointment were used.
+Student was sent home to recover.
+*
